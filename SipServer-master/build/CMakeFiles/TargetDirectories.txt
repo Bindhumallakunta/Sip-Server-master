@@ -1,0 +1,3 @@
+/home/adduser/Networking/SipServer-master/build/CMakeFiles/SipServer.dir
+/home/adduser/Networking/SipServer-master/build/CMakeFiles/edit_cache.dir
+/home/adduser/Networking/SipServer-master/build/CMakeFiles/rebuild_cache.dir
